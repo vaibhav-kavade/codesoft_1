@@ -1,0 +1,124 @@
+body{
+    background-color: #d4e2e0;
+    margin: 0;
+}
+
+#main{
+
+}
+#nb{
+    background-color: #99bcf5;
+    margin: 0px; 
+    padding: 10px; 
+    padding-bottom: 20px;
+    color: white;
+
+}
+#navbar{
+    
+   
+    display: inline;
+    color: aliceblue;
+}
+.link{
+    text-decoration: none;
+    color: black;
+    cursor: pointer;
+}
+.link:hover{
+    color: blueviolet;
+font-size: 1.1rem;
+}
+#bi{
+    color: aliceblue;
+    margin-left: 200px;
+}
+
+header{
+    color: rgb(235, 131, 51);
+    margin: 0%;
+    text-align: center;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#uoffer{
+
+}
+#uf1{
+    display: flex;
+    flex-direction: row;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#offer{
+    margin-right: 60px;
+   
+}
+.hr{
+    height: 2px;
+    background-color: black;
+    border: none;
+    
+}
+
+#nl{
+
+}
+#nl1{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    display: flex;
+    flex-direction: row;
+}
+#nl11{
+    margin-right: 60px;
+}
+
+.i1:hover{
+    background-color:green;
+}
+#s1{
+
+}
+
+#mob{
+    display: flex;
+    flex-direction: row;
+    padding-top: 30px;
+    padding-bottom: 30px;
+   
+
+}
+.mob1{
+    margin-right: 70px;
+
+}
+img{
+    width: 60px;
+    height: 80px;
+}
+#s2{
+
+}
+
+#watch{
+    display: flex;
+    flex-direction: row;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#watchdiv{
+    margin-right: 60px;
+
+}
+footer{
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(153, 113, 187);
+    color: rgb(120, 31, 31);
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#link1{
+ margin-left: 200px;
+    
+}
